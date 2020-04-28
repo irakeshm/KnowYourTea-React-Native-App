@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Tea",
+    "description": "Tea is an app to know all information about Tea",
+    "slug": "Tea",
+    "version": "1.0.0",
+    "icon": "assets/icons/app.png",
+    "loading": {
+      "icon": "assets/icons/splash.png",
+      "backgroundColor": "#fb6b6f",
+      "hideExponentText": true
+    },
+    "ios": {
+      "bundleIdentifier": "com.wibblystuff.gear"
+    },
+    "android": {
+      "package": "com.wibblystuff.gear",
+      "permissions": []
+    },
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "otf"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "green-tea": "#52BE80", //Green
+  "black-tea": "#707B7C",  //Black
+  "white-tea": "#ECF0F1", //White
+  "oolong-tea": "#F7DC6F", //Oolong (Yellow)
+  "puerh-tea": "#EB984E", //Puer (Brown)
+  "herbal-tea": "#B8CF46", //Herbal (Light Green)
+  "blend-tea": "#F0B27A", //blend
+  
+  "dragon": "#F4D5E8",
+  "ice": "#C2E6F6",
+  "fairy": "#FFA3AE",
+  "poison": "#F8BCDA",
+  "fighting": "#FAACA5",
+  "psychic": "#D7C4DF",
+  "rock": "#E5E5E1",
+  "flying": "#A0D6D4",
+  "steel": "#ABC5D1",
+  "ghost": "#CCB8D6",
+  "dark": "#B3C1CC"
+}
